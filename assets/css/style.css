@@ -1,0 +1,14 @@
+@import '_partials/base.css';
+@import '_partials/layout.css';
+@import '_partials/darkmode.css';
+@import '_partials/home.css';
+@import '_partials/button.css';
+@import '_partials/about.css';
+@import '_partials/skills.css';
+@import '_partials/qualification.css';
+@import '_partials/portfolio.css';
+@import '_partials/contact.css';
+@import '_partials/portfolio-detail.css';
+@import '_partials/footer.css';
+@import '_partials/scroll.css';
+@import '_partials/responsive.css';
