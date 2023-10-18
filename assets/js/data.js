@@ -45,25 +45,23 @@ var skills = {
         "details": "Medium, 1 Years",
         "icon": "bx bx-network-chart",
         "skills": {
-            "PHP": "95%",
-            "Java": "70%",
-            "Laravel": "90%",
-            "SQL": "85%",
+            "PHP": "80%",
+            "Laravel": "75%",
+            "SQL": "79%",
             "No SQL": "70%",
-            "Node Js": "80%",
-            "Express Js": "80%",
+            "Node Js": "70%",
+            "Express Js": "70%",
         }
     },
     "Frontend": {
         "details": "Medium, 1 Years",
         "icon": "bx bx-code-curly",
         "skills": {
-            "HTML": "95%",
-            "CSS": "80%",
-            "Bootstrap": "85%",
+            "HTML": "85%",
+            "CSS": "70%",
+            "Bootstrap": "75%",
             "Javascript": "80%",
-            "Jquery": "70%",
-            "React Js": "70%"
+            "Jquery": "65%",
         }
     },
 };
