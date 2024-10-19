@@ -148,7 +148,7 @@ var portfolio = {
         category product management, cart management and transaction list. This application was created using Framework Laravel 9.`,
 
         "source_code": "https://github.com/yohanes59/kasir-coffee-shop",
-        "demo": "https://kasir-cafe-xyz.000webhostapp.com",
+        "demo": "http://kasir-cafe.free.nf",
 
         "images": {
             1: "https://res.cloudinary.com/dqxruyist/image/upload/v1696532967/my_images/project/pos-cafe/pos-cafe-kasir-dashboard_lhv5hv.png",
@@ -172,60 +172,12 @@ var portfolio = {
         }
     },
     5: {
-        "title": "Kalkulator Suara Bahasa Indonesia",
-        "short_description": "Kalkulator Suara Bahasa Indonesia",
-        "description": `After learning the basics of Java I wanted to sharpen my knowledge and do some practice.
-        So I thought about making a calculator app. This sound calculator application was created because you are lazy 
-        to press buttons when calculating with a calculator. You can access the app in my playstore below.`,
-
-        "source_code": "",
-        "demo": "https://play.google.com/store/apps/details?id=com.XenLi.KalkulatorSuaraBahasaIndonesia&hl=en",
-
-        "images": {
-            1: "https://play-lh.googleusercontent.com/StkYjKhcU4P6cQvDmb_X5NoBJQEuzzx_j-ha69mAFdP8a9O5x43XEWvI4WpO9nO8T5c=w240-h480-rw",
-        }
-    },
-    6: {
-        "title": "Display Touch Tester",
-        "short_description": "Display Touch Tester",
-        "description": `This application is a tool to test the touch screen that does not work on mobile devices.
-        This application was created using Java. You can access the app in my playstore below.`,
-
-        "source_code": "",
-        "demo": "https://play.google.com/store/apps/details?id=com.xenli.DisplayTouchTester&hl=en",
-
-        "images": {
-            1: "https://play-lh.googleusercontent.com/-cJe4dVjdK6uZIPTzcxFZg53ap1blS-yRDeiMQryyoBlDp1kovQmGV00QAj3W0vJTA=w240-h480-rw",
-            2: "https://play-lh.googleusercontent.com/ZVSn-R4e2Gm7EPI5kMz8dIq-xzjZvJikIcil1zeBSwCkK3--R6GjNyBpZhHca6xvvA=w2560-h1440-rw",
-            3: "https://play-lh.googleusercontent.com/GUYSXYNSaEhLJQRQTtdZLics0SP-Ki18kui6vzj9qGvXZMM_diBQE4n-iR_S1wFDdg=w2560-h1440-rw",
-            4: "https://play-lh.googleusercontent.com/ZGaZcgRb18_YqPET7axB4ohTo7LSfR_DQQjyWeNETw3NfwQSK5CSPSQF_HcxuE1uT5c=w2560-h1440-rw"
-        }
-    },
-    7: {
-        "title": "Contactku",
-        "short_description": "A contact list app using PHP",
-        "description": `After learning the basics of PHP I wanted to sharpen my knowledge and do some practice. 
-        So I thought about making a contact list app. You can access the source code on my github below.`,
-
-        "source_code": "https://github.com/yohanes59/contactku",
-        "demo": "",
-
-        "images": {
-            1: "https://res.cloudinary.com/dqxruyist/image/upload/v1696534994/my_images/project/contactku/contactku-login_pyzils.png",
-            2: "https://res.cloudinary.com/dqxruyist/image/upload/v1696534994/my_images/project/contactku/contactku-home_vqcfhp.png",
-            3: "https://res.cloudinary.com/dqxruyist/image/upload/v1696534995/my_images/project/contactku/contactku-profile_v56yvi.png",
-            4: "https://res.cloudinary.com/dqxruyist/image/upload/v1696534995/my_images/project/contactku/contactku-tambah_v6b0ns.png",
-            5: "https://res.cloudinary.com/dqxruyist/image/upload/v1696534995/my_images/project/contactku/contactku-edit_zsvcli.png",
-            6: "https://res.cloudinary.com/dqxruyist/image/upload/v1696534994/my_images/project/contactku/contactku-delete_zlrhwu.png",
-        }
-    },
-    8: {
-        "title": "Sispar-FC",
+        "title": "Sistem pakar diagnosa kerusakan mesin jahit dengan algoritma Forward Chaining",
         "short_description": "Sewing machine fault diagnosis expert system application",
         "description": `Application of an expert system for diagnosing sewing machine damage using the forward chaining method.`,
 
-        "source_code": "",
-        "demo": "https://fc-sispar.000webhostapp.com",
+        "source_code": "https://github.com/yohanes59/sistem-pakar-diagnosa-kerusakan-mesin-jahit-metode-forward-chaining",
+        "demo": "http://sistem-pakar-mesin-jahit.free.nf",
 
         "images": {
             1: "https://res.cloudinary.com/dqxruyist/image/upload/v1696537180/my_images/project/sisfar-fc/sisfar-fc-dashboardpengguna_hwvx7d.png",
